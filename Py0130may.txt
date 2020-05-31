@@ -1,0 +1,49 @@
+           
+                 Welcome to cetpa's python online class.
+How to program?
+programming language is? 
+   Medium of conversation
+   Practice 
+How to program?
+ --- To write a program or a logic of your problem in simple language
+         hindi/english.
+----- convert that language into your choice of programming language and in our case it will be python.
+Eg: one number = 14, either this number is even or odd?
+   varun 14/2 = 7 remainder = 0
+python:
+     a = 14
+     if (a%2 == 0):
+        print("a is even")
+     else:
+        print("a is odd")
+ how will you convert it into a python?
+ # syntax, variables, functions.
+       programming concepts
+Why Python?
+python is been introduced in the year 1991, bit older than java, 1995
+Guido van rossum --- he is a dutch scientist who works for dropbox.
+Python is not a new language,
+brcause of its data handling capabalities-- presence of libraries
+Numpy, pandas, matplotlb,seaborn,plotly and sklearn, tensorflow and keras.
+Raw format 
+data analytics: combination of process to extract info from raw data.
+                  1. Domain Knowledge
+                  2. Statistical skills
+                  3. prog language , python/R
+Machine learning -- making predictions and finding the parameters.
+What is Python?
+Python is high-level,object-oriented,interpreted programming language.
+Low level: Assembly language or machine learning
+High level language : relatable to the human language.
+Object-oriented : Everything in prog language considered as object.
+                    An real world entity is considered as object.
+Interpreted and compiled: execution of code happens line by line.
+                           error line no: 45
+                         execution happens in one go.
+Which IDE we will used?
+Jupyter notebook 
+Anaconda -- platform spyder, jupyter --- data science jobs
+
+ 
+
+
